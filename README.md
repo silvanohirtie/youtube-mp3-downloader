@@ -73,4 +73,4 @@ with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 ```
 
 For any issue join this discord server: https://discord.gg/BgjwgWx  
-Or contact me on discord: Mental#1424
+Or contact me on discord: Mental#8106

@@ -72,5 +72,4 @@ with youtube_dl.YoutubeDL(ydl_opts) as ydl:
     ydl.download([link])
 ```
 
-For any issue join this discord server: https://discord.gg/BgjwgWx  
-Or contact me on discord: Mental#8106
+For any issue contact me on discord: Mental#8106
